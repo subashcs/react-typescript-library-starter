@@ -1,4 +1,4 @@
-## React Typescript Library Starter
+## React Typescript Library Starter Template
 
 ## Tools
 

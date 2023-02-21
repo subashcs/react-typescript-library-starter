@@ -8,10 +8,10 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/subashcs/react-nepali-date-picker/picker"
+    "url": "https://github.com/subashcs/react-typescript-library-starter"
   },
   "bugs": {
-    "url": "https://github.com/subashcs/react-nepali-date-picker/issues"
+    "url": "https://github.com/subashcs/react-typescript-library-starter/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -59,7 +59,6 @@
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "dependencies": {
-    "copy-webpack-plugin": "^11.0.0",
-    "react-scripts": "^5.0.1"
+    "copy-webpack-plugin": "^11.0.0"
   }
 }
